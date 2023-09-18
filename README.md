@@ -1,0 +1,1 @@
+# Made a hangman game and as shown there are two files, one file word.py has a list of a bunch of words the computer can use for the hangman game and the second file hangman.py contains the code for the hangman game.
